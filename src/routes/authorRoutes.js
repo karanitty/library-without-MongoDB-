@@ -5,20 +5,17 @@ function routers(nav){
         {
             name:"Joseph Barbara",
             novel:"Tom and Jerry",
-            image:"3de1f41c7132e12b923d2d0c17bbf813.jpg",
-            caption: "Good novel"
+            image:"3de1f41c7132e12b923d2d0c17bbf813.jpg"
         },
         {
             name:"J K Rowling",
             novel:"Harry Potter",
-            image:"191219-j-k-rowling-2018-ac-845p_b96cd21ada5eec6c9ff8b9ff33920b0f.jpg",
-            caption: "Good novel"
+            image:"191219-j-k-rowling-2018-ac-845p_b96cd21ada5eec6c9ff8b9ff33920b0f.jpg"
         },
         {
             name:"Chetan Bhagat",
             novel:"Half Girlfriend",
-            image:"1451400853-7826.jpg",
-            caption: "Good novel"
+            image:"1451400853-7826.jpg"
         }
     ];
 
