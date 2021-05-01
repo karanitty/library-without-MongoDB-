@@ -5,7 +5,7 @@ function author_routers(nav){
     addauthorRouter.get('/',function(req,res){
         res.render('add_author',
         {
-            title:'New Author',
+            title:'Add New Author',
             nav
         });
     });

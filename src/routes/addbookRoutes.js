@@ -5,7 +5,7 @@ function book_routers(nav){
     addbookRouter.get('/',function(req,res){
         res.render('add_book',
         {
-            title:'New Book',
+            title:'Add New Book',
             nav
         });
     });
